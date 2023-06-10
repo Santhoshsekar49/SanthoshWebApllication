@@ -1,0 +1,2 @@
+# SanthoshWebApllication
+Single page application
